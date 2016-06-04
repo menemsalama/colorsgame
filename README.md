@@ -1,2 +1,2 @@
 # simple color game
-# [Game link](http://colorgame.netlify.com/)
+# [Game link](http://colorsgame.netlify.com/)
